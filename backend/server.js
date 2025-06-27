@@ -1,23 +1,26 @@
 import express from 'express';
 import cors from 'cors';
-import books from './books.json' assert { type: 'json' };
+import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+
+// For ES Modules support
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Read JSON data
+const books = JSON.parse(fs.readFileSync(path.join(__dirname, 'books.json'), 'utf-8'));
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Required for ES module to get __dirname
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-// ✅ Allow CORS
+// CORS for frontend access
 app.use(cors());
 
-// ✅ Serve static covers
+// Serve covers statically
 app.use('/covers', express.static(path.join(__dirname, 'covers')));
 
-// ✅ API route
+// API route to return books
 app.get('/api/books', (req, res) => {
   res.json(books);
 });
