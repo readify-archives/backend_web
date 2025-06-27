@@ -1,4 +1,138 @@
-[
+[   {
+    "title": "The Children of Húrin",
+    "authors": "J. R. R. Tolkien; Christopher Tolkien",
+    "publish_date": "15-Oct-08",
+    "tags": "General,Fiction,Fantasy,Fantasy fiction,Fiction - Fantasy,Epic,Fantasy - Epic,Non-Classifiable,English Science Fiction And Fantasy,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien; Christopher Tolkien/The Children of Hurin (3196)/cover.jpg"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "authors": "J. R. R. Tolkien",
+    "publish_date": "15-Jul-05",
+    "tags": "Fiction,Classics,Fantasy,Juvenile Fiction,Fantasy fiction,Fiction - Fantasy,Epic,Fantasy - Epic,Adventure fiction,Fantasy & Magic,Children: Grades 4-6,Elves,Epic fiction,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Rings,Baggins,Frodo (Fictitious character),Gandalf (Fictitious character)",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien/The Fellowship of the Ring (3387)/cover.jpg"
+  },
+  {
+    "title": "The Hobbit: Or There and Back Again",
+    "authors": "J. R. R. Tolkien",
+    "publish_date": "15-Aug-02",
+    "tags": "General,Fiction,Science Fiction,Classics,Fantasy,Juvenile Fiction,Children: Young Adult (Gr. 7-9),Fantasy fiction,Magic,Children: Grades 2-3,Fantasy & Magic,& Magic,Children's 12-Up - Literature - Classics,Middle Earth (Imaginary place),Baggins,Bilbo (Fictitious character)",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien/The Hobbit_ Or There and Back Again (3526)/cover.jpg"
+  },
+  {
+    "title": "The Legend of Sigurd and Gudrún",
+    "authors": "J. R. R. Tolkien",
+    "publish_date": "17-Sep-10",
+    "tags": "-",
+    "publisher": "HarperCollins",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien/The Legend of Sigurd and Gudrun (3650)/cover.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "authors": "J. R. R. Tolkien",
+    "publish_date": "15-Oct-05",
+    "tags": "General,Fiction,Classics,Fantasy,Fantasy fiction,Fiction - Fantasy,English,Epic,Fantasy - Epic,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Baggins,Frodo (Fictitious character)",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien/The Lord of the Rings (3677)/cover.jpg"
+  },
+  {
+    "title": "The Return of the King",
+    "authors": "J. R. R. Tolkien",
+    "publish_date": "15-Jun-05",
+    "tags": "General,Fiction,Literary,Fantasy,Juvenile Fiction,Fantasy fiction,Fiction - Fantasy,Epic,Fantasy - Epic,Adventure fiction,Fantasy & Magic,Quests (Expeditions),Children: Grades 4-6,Wizards,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Baggins,Frodo (Fictitious character)",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien/The Return of the King (3945)/cover.jpg"
+  },
+  {
+    "title": "The Silmarillion",
+    "authors": "J. R. R. Tolkien; Christopher Tolkien; Ted Nasmith",
+    "publish_date": "15-Nov-04",
+    "tags": "General,Fiction,Classics,Fantasy,Fantasy fiction,Fiction - Fantasy,English,Epic,Fantasy - Epic,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,working,Middle Earth (Imagininary plac,Middle Earth (Imagininary place)",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien; Christopher Tolkien; Ted Nasmith/The Silmarillion (4032)/cover.jpg"
+  },
+  {
+    "title": "The Two Towers",
+    "authors": "J. R. R. Tolkien",
+    "publish_date": "15-Jul-05",
+    "tags": "Fiction,Fantasy,Juvenile Fiction,Fantasy fiction,Fiction - Fantasy,English,Epic,Fantasy - Epic,Fantasy & Magic,Quests (Expeditions),Children: Grades 4-6,Wizards,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Baggins,Frodo (Fictitious character)",
+    "publisher": "Houghton Mifflin",
+    "language": "eng",
+    "cover": "covers/J. R. R. Tolkien/The Two Towers (4157)/cover.jpg"
+  },
+ {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "Scholastic",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Chamber of Secrets (1504)/cover.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "Scholastic",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Deathly Hallows (1505)/cover.jpg"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "Scholastic",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Goblet of Fire (1506)/cover.jpg"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "-",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Half-Blood Prince (1507)/cover.jpg"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "Scholastic",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Order of the Phoenix (1508)/cover.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "Scholastic",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Prisoner of Azkaban (1509)/cover.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authors": "J.K. Rowling",
+    "publish_date": "12-May-10",
+    "tags": "-",
+    "publisher": "Scholastic",
+    "language": "-",
+    "cover": "covers/J.K. Rowling/Harry Potter and the Sorcerer's Stone (1510)/cover.jpg"
+  },
   {
     "title": "'48",
     "authors": "James Herbert",
@@ -13606,69 +13740,6 @@
     "publisher": "Corgi",
     "language": "eng",
     "cover": "covers/Jilly Cooper/Harriet (1503)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Chamber of Secrets",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "Scholastic",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Chamber of Secrets (1504)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Deathly Hallows",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "Scholastic",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Deathly Hallows (1505)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Goblet of Fire",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "Scholastic",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Goblet of Fire (1506)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Half-Blood Prince",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "-",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Half-Blood Prince (1507)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Order of the Phoenix",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "Scholastic",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Order of the Phoenix (1508)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Prisoner of Azkaban",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "Scholastic",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Prisoner of Azkaban (1509)/cover.jpg"
-  },
-  {
-    "title": "Harry Potter and the Sorcerer's Stone",
-    "authors": "J.K. Rowling",
-    "publish_date": "12-May-10",
-    "tags": "-",
-    "publisher": "Scholastic",
-    "language": "-",
-    "cover": "covers/J.K. Rowling/Harry Potter and the Sorcerer's Stone (1510)/cover.jpg"
   },
   {
     "title": "Harvest home",
@@ -28809,15 +28880,6 @@
     "cover": "covers/Paula T. Renfroe/The Cheating Curve (3195)/cover.jpg"
   },
   {
-    "title": "The Children of Húrin",
-    "authors": "J. R. R. Tolkien; Christopher Tolkien",
-    "publish_date": "15-Oct-08",
-    "tags": "General,Fiction,Fantasy,Fantasy fiction,Fiction - Fantasy,Epic,Fantasy - Epic,Non-Classifiable,English Science Fiction And Fantasy,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien; Christopher Tolkien/The Children of Hurin (3196)/cover.jpg"
-  },
-  {
     "title": "The Children of Men",
     "authors": "P. D. James",
     "publish_date": "16-May-06",
@@ -30537,15 +30599,6 @@
     "cover": "covers/Alexander Hamilton; James Madison; John Jay; Lawrence Goldman/The Federalist papers (3386)/cover.jpg"
   },
   {
-    "title": "The Fellowship of the Ring",
-    "authors": "J. R. R. Tolkien",
-    "publish_date": "15-Jul-05",
-    "tags": "Fiction,Classics,Fantasy,Juvenile Fiction,Fantasy fiction,Fiction - Fantasy,Epic,Fantasy - Epic,Adventure fiction,Fantasy & Magic,Children: Grades 4-6,Elves,Epic fiction,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Rings,Baggins,Frodo (Fictitious character),Gandalf (Fictitious character)",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien/The Fellowship of the Ring (3387)/cover.jpg"
-  },
-  {
     "title": "The Feng Shui Detective",
     "authors": "Nury Vittachi",
     "publish_date": "15-Sep-04",
@@ -31761,15 +31814,6 @@
     "cover": "covers/Douglas Adams/The hitchhiker's guide to the galaxy (3525)/cover.jpg"
   },
   {
-    "title": "The Hobbit: Or There and Back Again",
-    "authors": "J. R. R. Tolkien",
-    "publish_date": "15-Aug-02",
-    "tags": "General,Fiction,Science Fiction,Classics,Fantasy,Juvenile Fiction,Children: Young Adult (Gr. 7-9),Fantasy fiction,Magic,Children: Grades 2-3,Fantasy & Magic,& Magic,Children's 12-Up - Literature - Classics,Middle Earth (Imaginary place),Baggins,Bilbo (Fictitious character)",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien/The Hobbit_ Or There and Back Again (3526)/cover.jpg"
-  },
-  {
     "title": "The Hollow",
     "authors": "Agatha Christie",
     "publish_date": "15-Jun-86",
@@ -32868,15 +32912,6 @@
     "cover": "covers/Paul Hoffman/The left hand of God (3649)/cover.jpg"
   },
   {
-    "title": "The Legend of Sigurd and Gudrún",
-    "authors": "J. R. R. Tolkien",
-    "publish_date": "17-Sep-10",
-    "tags": "-",
-    "publisher": "HarperCollins",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien/The Legend of Sigurd and Gudrun (3650)/cover.jpg"
-  },
-  {
     "title": "The Legend of Sleepy Hollow and Other Writings",
     "authors": "Washington Irving",
     "publish_date": "01-Feb-06",
@@ -33109,15 +33144,6 @@
     "publisher": "Signet",
     "language": "eng",
     "cover": "covers/Stephen King/The Long Walk (3676)/cover.jpg"
-  },
-  {
-    "title": "The Lord of the Rings",
-    "authors": "J. R. R. Tolkien",
-    "publish_date": "15-Oct-05",
-    "tags": "General,Fiction,Classics,Fantasy,Fantasy fiction,Fiction - Fantasy,English,Epic,Fantasy - Epic,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Baggins,Frodo (Fictitious character)",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien/The Lord of the Rings (3677)/cover.jpg"
   },
   {
     "title": "The lords of the crimson river",
@@ -35487,15 +35513,6 @@
     "cover": "covers/Nora Roberts/The Return of Rafe Mackade (3944)/cover.jpg"
   },
   {
-    "title": "The Return of the King",
-    "authors": "J. R. R. Tolkien",
-    "publish_date": "15-Jun-05",
-    "tags": "General,Fiction,Literary,Fantasy,Juvenile Fiction,Fantasy fiction,Fiction - Fantasy,Epic,Fantasy - Epic,Adventure fiction,Fantasy & Magic,Quests (Expeditions),Children: Grades 4-6,Wizards,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Baggins,Frodo (Fictitious character)",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien/The Return of the King (3945)/cover.jpg"
-  },
-  {
     "title": "The Reversal",
     "authors": "Michael Connelly",
     "publish_date": "15-Oct-10",
@@ -36268,15 +36285,6 @@
     "publisher": "Thorndike Press",
     "language": "eng",
     "cover": "covers/Anne Perry/The Silent Cry (4031)/cover.jpg"
-  },
-  {
-    "title": "The Silmarillion",
-    "authors": "J. R. R. Tolkien; Christopher Tolkien; Ted Nasmith",
-    "publish_date": "15-Nov-04",
-    "tags": "General,Fiction,Classics,Fantasy,Fantasy fiction,Fiction - Fantasy,English,Epic,Fantasy - Epic,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,working,Middle Earth (Imagininary plac,Middle Earth (Imagininary place)",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien; Christopher Tolkien; Ted Nasmith/The Silmarillion (4032)/cover.jpg"
   },
   {
     "title": "The silver chair",
@@ -37366,15 +37374,6 @@
     "publisher": "SUMA DE LETRAS",
     "language": "eng",
     "cover": "covers/Anne Perry/The Twisted Root (4156)/cover.jpg"
-  },
-  {
-    "title": "The Two Towers",
-    "authors": "J. R. R. Tolkien",
-    "publish_date": "15-Jul-05",
-    "tags": "Fiction,Fantasy,Juvenile Fiction,Fantasy fiction,Fiction - Fantasy,English,Epic,Fantasy - Epic,Fantasy & Magic,Quests (Expeditions),Children: Grades 4-6,Wizards,Middle Earth (Imaginary place),Tolkien,J. R. R. (John Ronald Reuel),1892-1973,Baggins,Frodo (Fictitious character)",
-    "publisher": "Houghton Mifflin",
-    "language": "eng",
-    "cover": "covers/J. R. R. Tolkien/The Two Towers (4157)/cover.jpg"
   },
   {
     "title": "The Tyranny of the Night",
