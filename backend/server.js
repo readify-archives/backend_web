@@ -1,19 +1,27 @@
-import fs from "fs";
-import express from "express";
-import cors from "cors";
-import path from "path";
-import { fileURLToPath } from "url";
+import express from 'express';
+import cors from 'cors';
+import books from './books.json' assert { type: 'json' };
+import path from 'path';
+import { fileURLToPath } from 'url';
 
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+// Required for ES module to get __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const books = JSON.parse(fs.readFileSync("./books.json", "utf-8"));
-
-const app = express();
+// ✅ Allow CORS
 app.use(cors());
-app.use("/covers", express.static(path.join(__dirname, "../covers")));
 
-app.get("/books", (req, res) => res.json(books));
+// ✅ Serve static covers
+app.use('/covers', express.static(path.join(__dirname, 'covers')));
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+// ✅ API route
+app.get('/api/books', (req, res) => {
+  res.json(books);
+});
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
